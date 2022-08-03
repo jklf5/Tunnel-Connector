@@ -1,0 +1,25 @@
+{
+    "Target_Server": {
+        "1_Server_Template": {
+            "Name": "Template",
+            "Host": "Template",
+            "Port": 123,
+            "LocalPort": 123
+        },
+        "2_Server_Template": {
+            "Name": "Template",
+            "Host": "Template",
+            "Port": 123,
+            "LocalPort": 123
+        }
+    },
+    "Proxy": {
+        "1_Server_Template": {
+            "Name": "Template",
+            "Host": "Template",
+            "Port": 123,
+            "UserName": "Template",
+            "UserPass": "Template"
+        }
+    }
+}
